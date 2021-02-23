@@ -1,14 +1,6 @@
-# Title
+# Quake 3 Map Viewer
 
-## Requirements
-- Java 11
-
-## Compiling/Running
-```
-./gradlew run
-```
-
-# Attribution
+Paying homage to the most epic and fun first person shooter ever.
 
 
 # License
